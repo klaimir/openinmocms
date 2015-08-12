@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><?xml-stylesheet type="text/css" href="http://localhost/gesticadiz/media/css/rss.css" ?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"><channel>
+<title>Immobilien News Gesticadiz</title><link><?php echo  URL_EMPRESA; ?></link><description>Aktuelle Nachrichten veröffentlicht</description><language>es-es</language><copyright>Gesticadiz.es</copyright>
+<item>
+<title>Der Kitt-Spirit von Messi</title>
+<description>Ein Blitz Messi rettet die BarÃ § ³ a ³ n die Beseitigung gegen PSG im Camp Nou. Die Französisch waren weiter auf der Anzeigetafel in der 49. Minute durch ein Tor von Pastore und argentinischen Präsenz in dem Gebiet war notwendig. ³ kommt in 62 &#39;und 70&#39; erzeugt ³ Auslosung für die Heimmannschaft. Haben sie einen großen Ball zu Villa, das lässt ATRA s ³ für Peter werfen. </description>
+<link>http://www.elmundodeportivo.com/</link>
+<pubDate>11/04/2013   18:46</pubDate>
+</item>
+<item>
+<title>Zurück Barcelona-PSG</title>
+<description>Der Barcelona macht ³ n sanfte Trainingseinheit vor dem Spiel zwischen PSG BarÃ § ay mit einem Auge auf Leo Messi. Je nach den Ergebnissen der Ultraschall-, die diese maa unterzogen wurde ± ana und seine Empfindungen Stunden vor dem Spiel, unter den mehr © Ärzte, die Physiotherapeuten und der Spieler entscheidet, ob er spielt oder nicht n. </description>
+<link>http://www.marca.com</link>
+<pubDate>14/05/2013   13:52</pubDate>
+</item>
+<item>
+<title>Ein weiterer Test</title>
+<description>Ein Blitz Messi rettet die BarÃ § ³ a ³ n die Beseitigung gegen PSG im Camp Nou. Die Französisch ging voran in der Partitur im Minutentakt 1000000. </description>
+<link>http://localhost/gesticadiz/app/noticias/publicacion/insertar.php</link>
+<pubDate>21/05/2013   21:55</pubDate>
+</item>
+</channel></rss>

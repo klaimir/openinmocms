@@ -1,0 +1,74 @@
+canal_noticias {
+	font-family: "Trebuchet MS", Tahoma, Verdana;
+	font-size: 12px;
+	font-weight: normal;
+	color: #777777;
+	text-decoration: none;
+	background-color: #FFFFFF;
+}
+a.canal_noticias {
+	color: #0066CC;
+	text-decoration: none;
+}
+a.canal_noticias:hover {
+	color: #0066CC;
+	text-decoration: underline;
+}
+.det {
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #E8E8E8;
+	font-size: 12px;
+	font-weight: normal;
+	text-decoration: none;
+	padding: 16px;
+}
+.tit {
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #E8E8E8;
+	font-family: "Trebuchet MS", Tahoma, Verdana;
+	font-size: 18px;
+	font-weight: bold;
+	text-decoration: none;
+	padding: 16px;
+	background-color: #F4F4F4;
+}
+.post {
+	font-size: 13px;
+	font-weight: bold;
+	color: #0066CC;
+	text-decoration: none;
+}
+a.post:hover {
+	font-size: 13px;
+	font-weight: bold;
+	color: #0066CC;
+	text-decoration: none;
+}
+.form {
+	font-size: 12px;
+	font-weight: bold;
+	text-decoration: none;
+	padding: 16px;
+	border: 1px solid #E8E8E8;
+}
+.casilla {
+	font-family: "Trebuchet MS", Tahoma, Verdana;
+	font-size: 12px;
+	font-weight: normal;
+	color: #777777;
+	text-decoration: none;
+	border-top-width: 2px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 2px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #808080;
+	border-right-color: #D4D0C8;
+	border-bottom-color: #D4D0C8;
+	border-left-color: #808080;
+}

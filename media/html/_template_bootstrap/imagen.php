@@ -1,0 +1,1 @@
+		<img class="foto_pie" src="<?php echo  $_SESSION['rutaimg'];?>imagen.gif" title="<?php echo  NOMBRE_EMPRESA; ?>"/>

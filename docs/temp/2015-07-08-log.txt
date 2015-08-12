@@ -1,0 +1,4 @@
+Inicio de la copia de seguridad del SQL
+Inicio del generador del comprimido final con los datos:
+Retorno del comando encargado de generar el comprimido final: Array
+El archivo con un tamaño de 180.970703125Kb. fue creado correctamente

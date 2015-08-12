@@ -1,0 +1,1 @@
+<?php header("Location: app/buscador/index.php"); ?>

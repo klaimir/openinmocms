@@ -1,0 +1,323 @@
+/****************************************************
+* 					PARTE PUBLICA					*
+*****************************************************/
+
+body
+{
+	width: 100%;
+	text-align:center;
+	margin: 0;padding: 0;
+	margin-left:1px;	
+	font:12px  Verdana;
+}
+
+a, a:visited, a:hover{color:#003366;}
+a, a:visited{text-decoration:none;}
+a:hover {text-decoration:underline;}
+
+
+/* Pagina de Login */
+#body_login
+{
+	margin-top:100px;
+	background:	#adc2dd;
+}
+
+#login
+{
+	border:1px solid #0033FF;
+	width:650px;
+	margin:0 auto;
+	text-align:center;
+}
+
+#logo_login
+{
+	margin:0 auto;
+	text-align:center;
+}
+
+
+/* Logo cabecera y Cabecera */
+#logo_cabecera
+{
+	height:79px;
+	width:100%;
+}
+
+#contenedor
+{
+	width:1024px;
+	margin:0 auto;
+	overflow:hidden;
+	text-align:center;
+}
+
+#cabecera
+{
+	width:100%;
+	background:#ffffff;
+	text-align:center;
+	margin:0 auto;
+	position:relative;
+	height: 280px;;
+}
+
+/* Pie de pagina */
+#pie
+{
+	border:none;
+	background: #EF4B4B;
+	width:100%;
+	padding-left:5px;
+	height:60px;
+	text-align:center;
+	padding-top: 10px;
+	color:#FFFFFF;
+	font-size:0.9em;
+	position:relative;
+}
+
+#pie a, #pie a:visited {color:#FFFFFF}
+
+/* Contenidos */
+#contenido
+{
+	margin:0 auto;
+	text-align:center;
+	width:99%;
+	margin-top:2px;
+	position:relative;
+	height:auto !important;	
+}
+#interfaz
+{
+	margin:0 auto;
+	text-align:center;
+	padding-top:10px;
+	position:relative;
+	height:auto !important;	
+}
+
+/* Clases para listas */
+.lista {text-align:left;list-style-image:url();	margin-left:40px;}
+.lista_errores {text-align:left;list-style-image:url();	margin-left:20px;}
+.lista_sin {text-align:left; list-style-image: none; list-style-type:none; margin-left:20px;}
+
+/* Párrafo */
+
+.titulo_inicio
+{
+	background:#004000;
+	color:#ffffff;
+	padding:2px;
+	padding-left:10px;
+}
+
+.titulo_seccion
+{
+	color:#ffffff;
+	background:#C40000;
+	font-weight:bold;
+	height:25px;
+	text-align:center;
+	font-size:20px;
+	padding-top:4px;
+	padding-bottom:2px;
+	padding-left:8px;
+}
+
+.titulo_seccion_datos
+{
+	border-bottom:1px solid; 
+	padding-bottom:2px; 
+	font-weight:bold;
+	font-size:14px;
+	text-align:left;
+}
+
+.regla_horizontal_superior
+{
+	color:#666666;
+	border-bottom:1px dotted #999;
+	height:30px;
+	padding-bottom:2px;
+}
+
+.regla_horizontal_inferior
+{
+	color:#666666;
+	padding-top:5px;
+	padding-bottom:15px;
+	border-top:1px dotted #999;
+}
+
+/****************************************************
+* 					ADMINISTRACION					*
+*****************************************************/
+
+/* Formularios */
+form
+{
+	text-align:left;
+	width:100%;
+}
+.titulo_formulario_login {background: #FF4F4F; border:1px solid #29689c; border-bottom:none; color:#ffffff; font-family:Verdana, Times, serif; font-size:0.9em; text-align:center; width:550px; padding:5px; margin:0 auto;}
+.formulario_login {padding:0; width:550px; border:1px solid #29689c; padding:5px; margin:0 auto;}
+label {font:bold 0.9em Verdana; color:#003366}
+.campo_formulario_login {text-align:center;border:1px solid #29689c; background:#ffffff; background-position:left; font: normal 0.9em Verdana; width:130px; color: #27325e; padding:3px 5px 3px 10px;}
+.boton_formulario_login {border:1px solid #29689c; background:#FF4F4F; font:normal 0.9em Tahoma; padding:3px; width:80px; color:#fff}
+
+.campo_texto
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+
+.campo_texto_blocked
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+	background-color:#CCCCCC;
+	border-color:#CCCCCC;
+}
+
+/* Fecha y hora */
+#fechahora
+{
+	width: 100%;
+	background-color:#FFFFFF; 
+	color:#999999; 
+	/*border:1px solid #cccccc;*/
+	margin:0 auto;
+	position:relative;
+}
+
+.breadcrumbs
+{
+	border-bottom:1px solid #334973;
+	color:#334973;
+	padding-bottom:2px;
+	text-align:left;
+}
+
+.breadcrumbs_publico 
+{
+	padding-bottom:2px;
+	padding-top:2px;
+	padding-left:8px;
+	border:1px solid #105290;
+	text-align:left;
+}
+
+.breadcrumbs_publico a:link {color:#000000;}
+.breadcrumbs_publico a:hover {color:#000000;}
+.breadcrumbs_publico a:visited {color:#000000;}
+
+.sin_enlace
+{
+	color:#666666;
+}
+
+.contenido
+{
+	border:1px dotted #990000;
+	padding:10px;
+}
+
+.boton
+{
+	border:1px solid #105290;
+	background:background:#FF4F4F;
+	color:#105290;
+	font-size:95%;
+	margin-right:8px;
+}
+
+/* Leyenda */
+
+table
+{
+border-collapse:collapse;
+}
+table, td, th
+{
+border:1px solid black;
+}
+.titulo_tabla
+{
+	color:#FFFFFF;
+	background:#bd082a;
+	font-weight:bold;
+	text-align:center;
+	font-size:14px;
+}
+
+.cabecera_tabla
+{
+	background: #C40000;
+	color:#FFFFFF;
+	text-align:center;
+	padding:2px;
+}
+
+.datos_tabla_par
+{
+	background: #FF8080;
+	color:#000000;
+	text-align:center;
+	padding:2px;
+}
+
+.datos_tabla_impar
+{
+	background:#FFFFFF;
+	color: #1E4566;
+	text-align:center;
+	padding:2px;
+}
+
+/*********************************************
+*	GESTIÓN DE ERRORES
+*********************************************/
+
+.titulo_errores
+{
+	background-color:#990000; 
+	color:#FFFFFF;
+	font-family:Tahoma; 
+	font-size:11px; 
+	width:90%; 
+	margin-left:20px;
+	border:1px solid #990000;
+}
+
+.detalle_errores
+{
+	border:1px dotted #990000;
+	color:#990000;
+	background:#FFCCCC;
+	padding:10px;
+	width:88%;
+	margin-left:20px;
+}
+
+.lista_errores 
+{
+	list-style-image:url(/gesticadiz/media/img/error.gif);	
+	color:#993300;
+	font-size:90%;
+}
+
+.opciones_extras 
+{
+	font-size:10px;
+	color:#666666;
+	padding-right:4px;
+	text-align:right;
+	border-bottom:1px dotted #999;
+}	
+
+/* Esto permite que en IE 6 y anteriores se capten las transparencias de los archivos en .png */
+* html img,
+* html .png{  position:relative;  behavior: expression((this.runtimeStyle.behavior="none")&&(this.pngSet?this.pngSet=true:(this.nodeName == "IMG" && this.src.toLowerCase().indexOf('.png')>-1?(this.runtimeStyle.backgroundImage = "none",  this.runtimeStyle.filter = "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='" + this.src + "', sizingMethod='image')",  this.src = "/gesticadiz/img/blank_.gif"):(this.origBg = this.origBg? this.origBg :this.currentStyle.backgroundImage.toString().replace('url("','').replace('")',''),  this.runtimeStyle.filter = "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='" + this.origBg + "', sizingMethod='crop')",  this.runtimeStyle.backgroundImage = "none")),this.pngSet=true)  );  }

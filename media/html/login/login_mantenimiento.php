@@ -1,0 +1,1 @@
+		<br /><span style="font-size:16px"><?php echo  $textos['texto']; ?></span><br /><br />

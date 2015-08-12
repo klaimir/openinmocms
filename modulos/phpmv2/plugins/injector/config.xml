@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin version="1.0">
+  <title>Injector</title>
+  <version>0.1beta1</version>
+  <description>[ debug ] Used to insert fake statistics</description>
+  <url>http://www.phpmyvisites.us/documentation/plugins/Injector</url>
+  <type>admin</type>
+  <menuModName></menuModName>
+  <mod>view_injector</mod>
+  <langPath></langPath>
+  <defaultLang>en-utf-8.php</defaultLang>
+</plugin>

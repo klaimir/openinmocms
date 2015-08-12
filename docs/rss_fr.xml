@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><?xml-stylesheet type="text/css" href="http://localhost/gesticadiz/media/css/rss.css" ?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"><channel>
+<title>Nouvelles de l&#39;immobilier Gesticadiz</title><link><?php echo  URL_EMPRESA; ?></link><description>Dernières nouvelles publié</description><language>es-es</language><copyright>Gesticadiz.es</copyright>
+<item>
+<title>Le mastic-Esprit de Messi</title>
+<description>Un éclair de Messi sauve le Barça § ³ un ³ n de l&#39;élimination face au PSG au Camp Nou. Les Français étaient en avance sur le tableau de bord dans les 49e minute grâce à un but de Pastore et la présence argentine dans le domaine était nécessaire. ³ vient en 62 &#39;et 70&#39; génère tirage de ³ pour le côté de la maison. Leur avez une superbe passe à Villa, qui laisse le ³ ATRA de Peter pour le jeter. </description>
+<link>http://www.elmundodeportivo.com/</link>
+<pubDate>11/04/2013   18:46</pubDate>
+</item>
+<item>
+<title>Précédent Barcelone-PSG</title>
+<description>Le Barcelona rend ³ n séance d&#39;entraînement en douceur avant le match entre PSG BarÃ § ay avec un oeil sur Leo Messi. Selon les résultats de l&#39;échographie qui a subi cette maa ± ana et ses sensations heures avant le match, Parmi les plus de médecins de ©, les kinés et le lecteur décider s&#39;il joue ou non n. </description>
+<link>http://www.marca.com</link>
+<pubDate>14/05/2013   13:52</pubDate>
+</item>
+<item>
+<title>Un autre test</title>
+<description>Un éclair de Messi sauve le Barça § ³ un ³ n de l&#39;élimination face au PSG au Camp Nou. Le français est allé de l&#39;avant dans le score à la minute 1000000. </description>
+<link>http://localhost/gesticadiz/app/noticias/publicacion/insertar.php</link>
+<pubDate>21/05/2013   21:55</pubDate>
+</item>
+</channel></rss>

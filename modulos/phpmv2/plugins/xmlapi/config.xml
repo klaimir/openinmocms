@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin version="1.0">
+  <title>Xml API</title>
+  <version>0.1beta1</version>
+  <description>[ alpha ] Future REST API to get phpMyVisites statistics</description>
+  <url>http://www.phpmyvisites.us/documentation/plugins/REST_API_Statistics</url>
+  <type>admin</type>
+  <menuModName></menuModName>
+  <mod>view_xmlapi</mod>
+  <langPath></langPath>
+  <defaultLang></defaultLang>
+</plugin>

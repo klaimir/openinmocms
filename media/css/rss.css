@@ -1,0 +1,57 @@
+rss {
+	display: block;
+	font-family: verdana, arial;
+	font-size: 14px;
+}
+channel link {
+	display: block;
+	margin: 5px 6px;
+}
+channel description {
+	display: block;
+	margin: 5px 6px;
+}
+item {
+	background: #E8F8FD;
+	display: block;
+	margin: 10px 30px;
+	padding: 5px;
+	border: 1px dotted #aaa;
+}
+title {
+	font: bold large Arial, Helvetica, sans-serif;
+	display: block;
+	margin: 5px;
+	padding: 2px;
+	color: #333;
+	border-bottom: 1px solid silver;
+}
+item title {
+	font-size: medium;
+	color: #666;
+}
+channel item link {
+	display: block;
+	margin: 0;
+}
+comments {
+	display: block;
+}
+docs {
+	display: block;
+	margin: 20px;
+	text-align: center;
+	padding: 5px;
+	color: #7f7f7f;
+	border: 1px solid silver;
+}
+channel item description {
+	display: block;
+	background: #fff;
+	border: 1px dotted #f5f5f5;
+	margin: 5px 3px;
+}
+/* para las etiquetas que ocultamos */
+language, lastBuildDate, ttl, guid, category, pubDate, generator {
+	display: none;
+}

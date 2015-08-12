@@ -1,0 +1,7 @@
+<IfModule mod_rewrite.c>
+RewriteEngine off
+</IfModule>
+AuthName "MySQLDumper"
+AuthType Basic
+AuthUserFile "D:/AppServ/www/gesticadiz/modulos/mysqldumper/.htpasswd"
+require valid-user

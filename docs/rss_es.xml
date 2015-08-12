@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><?xml-stylesheet type="text/css" href="http://localhost/gesticadiz/media/css/rss.css" ?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"><channel>
+<title>Noticias de Gesticadiz Inmobiliaria</title><link><?php echo  URL_EMPRESA; ?></link><description>Últimas noticias publicadas</description><language>es-es</language><copyright>Gesticadiz.es</copyright>
+<item>
+<title>El espíritu de Messi</title>
+<description>Un destello de Messi salvó al Barça de la eliminación ante el PSG en el Camp Nou. Los franceses se adelantaron en el marcador en el minuto 49 gracias a un gol de Pastore y la presencia del argentino en el campo se hizo necesaria. Entró en el 62' y en el 70' generó la jugada del empate. Metió un gran pase para Villa, que la dejó atrás para que Pedro tirase.</description>
+<link>http://www.elmundodeportivo.com/</link>
+<pubDate>11/04/2013   18:46</pubDate>
+</item>
+<item>
+<title>Previa Barcelona-PSG</title>
+<description>El Barcelona realizó una suave sesión de entrenamiento previa al partido entre el Barça y el PSG con la mirada puesta en Leo Messi. Dependiendo de los resultados de la ecografía a la que ha sido sometido esta mañana y de sus sensaciones horas antes del partido, entre los médicos, los fisios y el jugador decidirán si juega o no.</description>
+<link>http://www.marca.com</link>
+<pubDate>14/05/2013   13:52</pubDate>
+</item>
+<item>
+<title>Otra prueba</title>
+<description>Un destello de Messi salvó al Barça de la eliminación ante el PSG en el Camp Nou. Los franceses se adelantaron en el marcador en el minuto 1000000.</description>
+<link>http://localhost/gesticadiz/app/noticias/publicacion/insertar.php</link>
+<pubDate>21/05/2013   21:55</pubDate>
+</item>
+</channel></rss>

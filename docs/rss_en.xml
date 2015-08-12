@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><?xml-stylesheet type="text/css" href="http://localhost/gesticadiz/media/css/rss.css" ?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"><channel>
+<title>Real Estate News Gesticadiz</title><link><?php echo  URL_EMPRESA; ?></link><description>Latest news published</description><language>es-es</language><copyright>Gesticadiz.es</copyright>
+<item>
+<title>The putty-Spirit of Messi</title>
+<description>A flash of Messi saves the BarÃ § ³ a ³ n the elimination against PSG at the Camp Nou. The French were ahead on the scoreboard in the 49th minute thanks to a goal from Pastore and Argentine presence in the field was necessary. ³ comes in 62 &#39;and 70&#39; generates ³ draw for the home side. Got them a great pass to Villa, that leaves ATRA s ³ for Peter throw it. </description>
+<link>http://www.elmundodeportivo.com/</link>
+<pubDate>11/04/2013   18:46</pubDate>
+</item>
+<item>
+<title>Previous Barcelona-PSG</title>
+<description>The Barcelona makes ³ n gentle training session before the match between PSG BarÃ § ay with an eye on Leo Messi. Depending on the results of the Ultrasound-which has undergone this maa ± ana and its sensations hours before the game, among the more © physicians, the physios and the player will decide whether he plays or not n. </description>
+<link>http://www.marca.com</link>
+<pubDate>14/05/2013   13:52</pubDate>
+</item>
+<item>
+<title>Another test</title>
+<description>A flash of Messi saves the BarÃ § ³ a ³ n the elimination against PSG at the Camp Nou. The French went ahead in the score at minute 1000000. </description>
+<link>http://localhost/gesticadiz/app/noticias/publicacion/insertar.php</link>
+<pubDate>21/05/2013   21:55</pubDate>
+</item>
+</channel></rss>
